@@ -35,7 +35,6 @@ Hello! I'm Nayan Malakar, a passionate Software Engineer. I love working on inno
 ## 🌐 Connect with Me
 
 ![GitHub followers](https://img.shields.io/github/followers/nayan-cse?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/your-handle?style=social)
 
 ---
 
